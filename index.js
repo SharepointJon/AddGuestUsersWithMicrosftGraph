@@ -1,7 +1,7 @@
 var adal = require('adal-node');
 var request = require('request');
 
-const TENANT = "mhpsamerteam.sharepoint.com";
+const TENANT = "amermhpsteam.sharepoint.com";
 const GRAPH_URL = "https://graph.microsoft.com";
 const CLIENT_ID = "copy and paste your client id";
 const CLIENT_SECRET = "create a secret key and add it here";
